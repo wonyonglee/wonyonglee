@@ -1,4 +1,6 @@
-## Hi there 👋
+## 백엔드 개발자
+
+Java, Spring Boot를 이용한 백엔드 개발을 주로 진행하다가 현재는 빅데이터와 관련된 프로젝트를 진행하면서 데이터 개발을 진행하고 있습니다.
 
 <!--
 **wonyonglee/wonyonglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

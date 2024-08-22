@@ -1,6 +1,10 @@
-## 백엔드 개발자
+## Backend-Developer
 
-Java, Spring Boot를 이용한 백엔드 개발을 주로 진행하다가 현재는 빅데이터와 관련된 프로젝트를 진행하면서 데이터 개발을 진행하고 있습니다.
+여러 분야에서 다양한 경험을 하면서 결국 중요한건 문제해결능력이라는 사실을 깨달았습니다.  
+이와 같은 사실을 체화하기까지 오랜 시간이 걸렸지만 지금껏 쌓아온 다양한 경험들중에 제가 생각하는 가장 중요한 부분들을 꾸준히 내재화 해왔기에  
+깨달은 바를 토대로 조직의 성장에 기여할 수 있는 개발자가 되었다고 생각합니다.  
+
+
 
 <!--
 **wonyonglee/wonyonglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
